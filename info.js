@@ -1,8 +1,8 @@
 let openinfo = {
         launcherVer: "beta 0.2",
         launcherAuthor: "TheFunnyDay",
-        launcherName: "JSR Launcher",
-        bgNow: "https://i.ibb.co/NpBsGrz/background.jpg",
-        charNow: "https://i.ibb.co/FXJJJ6J/Ephnel-Character-Art.png",
+        launcherName: "Genshin Launcher (Unofficial)",
+        bgNow: "https://images5.alphacoders.com/109/thumb-1920-1099191.jpg",
+        charNow: "https://uploadstatic-sea.mihoyo.com/contentweb/20200903/2020090319230398794.png",
 };
 
