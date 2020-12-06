@@ -16,5 +16,5 @@ let openinfo = {
 
 var promocodes = {
  actual: "GENSHIN1111 ",
- other: ["GENSHIN1111","GENSHIN1111"]
+ other: ["GENSHIN1111", "GENSHIN1111"]
 }
