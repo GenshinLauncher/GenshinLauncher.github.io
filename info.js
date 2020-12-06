@@ -8,15 +8,15 @@
  
 
 let openinfo = {
-        launcherVer: "beta 0.2",
+        launcherVer: "relese 1.0.1",
         launcherAuthor: "TheFunnyDay",
         launcherName: "Genshin Launcher (Unofficial)",
         bgNow: "https://images5.alphacoders.com/109/thumb-1920-1099191.jpg",
 };
 
 var promocodes = {
- actual: "GENSHIN1111",
- other: ["GENSHIN1111", "GENSHIN1111"]
+ actual: "GENSHINGIFT",
+ other: ["GENSHIN1111"]
 };
 let BigUpdate = {
  url: "https://genshin.mihoyo.com/ru/news/detail/6423",
