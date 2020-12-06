@@ -3,7 +3,11 @@
                'https://uploadstatic-sea.mihoyo.com/contentweb/20200402/2020040211341645583.png',
                'https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915555946964.png',
                'https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100914585927082.png',
-                'https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619124782155.png'
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200316/2020031619124782155.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200616/2020061611291451794.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915354758437.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912223531797.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110619410641614.png'
                ];
  
 
