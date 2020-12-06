@@ -18,3 +18,7 @@ var promocodes = {
  actual: "GENSHIN1111",
  other: ["GENSHIN1111", "GENSHIN1111"]
 }
+let BigUpdate = {
+ url: "Новое в версии 1.1 «Приближение новой звезды»",
+ tittle: "https://genshin.mihoyo.com/ru/news/detail/6423",
+}
