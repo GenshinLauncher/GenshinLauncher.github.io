@@ -14,3 +14,7 @@ let openinfo = {
         bgNow: "https://images5.alphacoders.com/109/thumb-1920-1099191.jpg",
 };
 
+var promocodes = {
+ actual: null,
+ other: ["123","121"]
+}
