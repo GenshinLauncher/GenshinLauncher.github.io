@@ -1,0 +1,2 @@
+# GenshinLauncher.github.io
+Site
