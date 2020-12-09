@@ -12,7 +12,7 @@
  
 
 let openinfo = {
-        launcherVer: "relese 1.0.1",
+        launcherVer: "realese 1.0.1",
         launcherAuthor: "TheFunnyDay",
         launcherName: "Genshin Launcher (Unofficial)",
         bgNow: "https://images5.alphacoders.com/109/thumb-1920-1099191.jpg",
