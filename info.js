@@ -15,7 +15,7 @@ let openinfo = {
         launcherVer: "realese 1.0.1",
         launcherAuthor: "TheFunnyDay",
         launcherName: "Genshin Launcher (Unofficial)",
-        bgNow: "https://images5.alphacoders.com/109/thumb-1920-1099191.jpg",
+        bgNow: "https://uploadstatic-sea.mihoyo.com/contentweb/20200320/2020032014541768485.jpg",
 };
 
 var promocodes = {
