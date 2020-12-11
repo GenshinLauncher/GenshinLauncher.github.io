@@ -19,8 +19,13 @@ let openinfo = {
 };
 
 var promocodes = {
- actual: "GENSHINGIFT",
- other: ["GENSHIN1111"]
+ actual: "5KVeIbSxDUU",
+ other: [
+         "G3tQq6TOqmE",
+         "eATDgIXLD56",
+         "GENSHIN1111",
+         "GENSHINGIFT"
+ ]
 };
 let BigUpdate = {
  url: "https://genshin.mihoyo.com/ru/news/detail/6423",
