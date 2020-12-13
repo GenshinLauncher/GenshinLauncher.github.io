@@ -19,12 +19,11 @@ let openinfo = {
 };
 
 var promocodes = {
- actual: "5KVeIbSxDUU",
+ actual: "GENSHINGIFT",
  other: [
+         "5KVeIbSxDUU",
          "G3tQq6TOqmE",
          "eATDgIXLD56",
-         "GENSHIN1111",
-         "GENSHINGIFT"
  ]
 };
 let BigUpdate = {
