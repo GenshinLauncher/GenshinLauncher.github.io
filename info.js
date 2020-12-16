@@ -20,7 +20,7 @@
  
 
 let openinfo = {
-        launcherVer: "realese 1.0.1",
+        launcherVer: "realese 1.0.2",
         launcherAuthor: "TheFunnyDay",
         launcherName: "Genshin Launcher (Unofficial)",
         bgNow: "https://uploadstatic-sea.mihoyo.com/contentweb/20200320/2020032014541768485.jpg",
