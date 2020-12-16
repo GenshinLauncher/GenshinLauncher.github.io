@@ -7,7 +7,15 @@
                'https://uploadstatic-sea.mihoyo.com/contentweb/20200616/2020061611291451794.png',
                'https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100915354758437.png',
                'https://uploadstatic-sea.mihoyo.com/contentweb/20191009/2019100912223531797.png',
-               'https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110619410641614.png'
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20201106/2020110619410641614.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200609/2020060915541242052.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20191028/2019102814571688586.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200103/2020010313510312353.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200723/2020072319363352759.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200305/2020030520181927968.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200903/2020090318123582653.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20201125/2020112516543650441.png',
+               'https://uploadstatic-sea.mihoyo.com/contentweb/20200903/2020090320270563617.png',
                ];
  
 
