@@ -35,6 +35,6 @@ var promocodes = {
  ]
 };
 let BigUpdate = {
- url: "https://genshin.mihoyo.com/ru/news/detail/6423",
- tittle: "Новое в версии 1.1 «Приближение новой звезды»",
+ url: "https://genshin.mihoyo.com/ru/news/detail/7585",
+ tittle: "Обновление 1.2 «Принц мела и дракон»: абсолютно новое снаряжение",
 };
