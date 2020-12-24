@@ -27,11 +27,9 @@ let openinfo = {
 };
 
 var promocodes = {
- actual: "GENSHINGIFT",
+ actual: "GSIMPTq125",
  other: [
-         "5KVeIbSxDUU",
-         "G3tQq6TOqmE",
-         "eATDgIXLD56",
+        null
  ]
 };
 let BigUpdate = {
